@@ -1,0 +1,19 @@
+{
+  "name": "fontspace",
+  "version": "1.0.0",
+  "description": "FontScope is a library of completely free SVG icons for easy use in your HTML code.  It's super easy to use in your HTML code, just like this:",
+  "main": "fontscope.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opensource-matrix/fontscope.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/opensource-matrix/fontscope/issues"
+  },
+  "homepage": "https://github.com/opensource-matrix/fontscope#readme"
+}
