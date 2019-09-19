@@ -15,3 +15,15 @@ FontScope is a library of completely free SVG icons for easy use in your HTML co
 </html>
 ```
 Just add the image's file name (without `.svg`) class to your `span` tag.  If you want a list of the provided images, look through `images/`; it's where the SVG files are stored.
+
+If you want to color your graphics, you can use the builtin color keyword classes:
+```css
+.magenta
+.red
+.orange
+.yellow
+.green
+.blue
+.indigo
+.violet
+```
