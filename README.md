@@ -14,3 +14,4 @@ FontScope is a library of completely free SVG icons for easy use in your HTML co
     </body>
 </html>
 ```
+Just add the image's file name (without `.svg`) class to your `span`
