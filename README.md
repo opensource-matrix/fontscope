@@ -27,3 +27,7 @@ If you want to color your graphics, you can use the builtin color keyword classe
 .indigo
 .violet
 ```
+Like this.
+```html
+<span id="test" class="icon-android green" width="100px" height="100px"></span>
+```
