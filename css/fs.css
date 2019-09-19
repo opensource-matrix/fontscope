@@ -1,0 +1,35 @@
+.blue {
+    filter: invert(.5) sepia(1) saturate(5) hue-rotate(180deg);
+}
+
+.red {
+    filter: invert(.4) sepia(.8) saturate(5) hue-rotate(300deg);
+}
+
+.magenta {
+    filter: invert(.5) sepia(1) saturate(5) hue-rotate(300deg);
+}
+
+.green {
+    filter: invert(.5) sepia(1) saturate(5) hue-rotate(50deg);
+}
+
+.orange {
+    filter: invert(.5) sepia(1) saturate(5) hue-rotate(360deg);
+}
+
+.violet {
+    filter: invert(.4) sepia(.9) saturate(5) hue-rotate(220deg);
+}
+
+.yellow {
+    filter: invert(.5) sepia(1) saturate(5) hue-rotate(10deg) brightness(10);
+}
+
+.indigo {
+    filter: invert(.5) sepia(1) saturate(5) hue-rotate(205deg);
+}
+
+.white {
+    filter: invert(1);
+}
