@@ -1,4 +1,16 @@
 # FontScope
-FontScope is a library of completely free SVG icons for easy use in your HTML code.  See anything you like?  Here are a list of FontScope images:
+FontScope is a library of completely free SVG icons for easy use in your HTML code.  It's super easy to use in your HTML code, just like this:
 
-<img src="https://raw.githubusercontent.com/opensource-matrix/fontscope/master/images/icon-android.svg" width="30px" height="30px"></img>
+```html
+<!DOCTYPE html>
+<html>
+    <head>
+        <!-- ... -->
+        <script src="fontspace.js"></script>
+    </head>
+    <body>
+        <!-- ... -->
+        <span id="test" class="icon-android" width="100px" height="100px"></span>
+    </body>
+</html>
+```
